@@ -60,21 +60,4 @@ img {
 #contactH1 {
     margin-top: 200px; 
 }
-@media (max-width: 1500px) {
-    .bodycontainer {
-        font-size: .7em;
-    }
-    header {
-        margin-bottom: 70px;
-    }
-    img {
-        width: 300px;
-        border-radius: 50%;
-        padding: 10px;
-    }
-    h1 {
-        padding-top: 70px;
-        line-height: .8em;
 
-    }
-  }
